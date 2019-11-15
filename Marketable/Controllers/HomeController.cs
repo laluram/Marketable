@@ -7,7 +7,7 @@ using System.Web.Mvc;
 namespace Marketable.Controllers
 {
     /// <summary>
-    ///  This is comment 2p 
+    ///  This is comment
     /// </summary>
     public class HomeController : Controller
     {
