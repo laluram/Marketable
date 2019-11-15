@@ -6,6 +6,9 @@ using System.Web.Mvc;
 
 namespace Marketable.Controllers
 {
+    /// <summary>
+    ///  This is comment
+    /// </summary>
     public class HomeController : Controller
     {
         public ActionResult Index()
