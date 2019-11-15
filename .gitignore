@@ -3,3 +3,7 @@
 ################################################################################
 
 /Marketable.sln
+/.vs
+/Marketable/bin
+/Marketable/obj
+/packages
